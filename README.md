@@ -1,4 +1,4 @@
-# 🎆 Discord Remote Access TROJAN
+# 🎆 Discord Remote Access TROJAN REMOVAL
 **DISCORD RAT REMOVAL** is a simple removal for the rat i created
 
 Please note that this is **NOT** an "HACKING TOOL", but just an tool for being educated about shell commands
